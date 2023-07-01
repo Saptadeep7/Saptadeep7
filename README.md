@@ -8,7 +8,7 @@
 - 👀 I’m interested in JavaScript, SASS, DevOps.
 - 🌱 I’m currently learning React Js with Redux and Next Js.
 - 💞️ I’m looking to collaborate on React Js.
-- 🥅 2022 Goals: Learn more about web3, NextJs, Remix and GraphQL.
+- 🥅 2023 Goals: Learn more about web3, NextJs, Remix and GraphQL.
 - ⚡ Fun fact: I love to play football and basketball.
 
 ## Connect with me:
